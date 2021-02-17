@@ -1,7 +1,7 @@
 # Connect Four
 An agent that playes Connect Four using adversarial tree-search with alpha-beta-pruning and a simple heuristic function.
 
-Requires OpenAI gym
+Requires OpenAI gym.
 
 # How to play
 Run connect_four.py and follow the instructions. 
